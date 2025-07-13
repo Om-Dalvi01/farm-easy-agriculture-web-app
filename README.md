@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agriculture-Website
 Steps to Execute the Project:
 
@@ -14,3 +15,7 @@ Steps to Execute the Project:
 6.Open the new folder in VS Code.
 
 7.Run the file named "**index.html**" using Live Server / Live Preview.
+=======
+# farm-easy-agriculture-web-app
+A crop recommendation website that suggests suitable crops based on soil type and pH using HTML, CSS, JavaScript, and Weather API.
+>>>>>>> 2f1616d65725d07a347f473ee340ad10a6aa543a
